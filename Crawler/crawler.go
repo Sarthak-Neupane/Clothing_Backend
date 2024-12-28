@@ -34,13 +34,6 @@ type price struct {
 	FormattedPrice string  `json:"formattedPrice"`
 	Price          float64 `json:"price"`
 }
-
-type color struct {
-	ColorName  string `json:"-"`
-	ColorShade string `json:"-"`
-	ColorHex   string `json:"-"`
-}
-
 type img struct {
 	Url string `json:"url"`
 }
@@ -54,39 +47,20 @@ type swatch struct {
 
 type product struct {
 	Id           string   `json:"id"`
-	ColorState   color    `json:"-"`
+	// ColorState   color    `json:"-"`
+	ColorName string `json:"colorName"`
+	ColorCode string `json:"colors"`
+	ColorShade string `json:"colourShades"`
 	PriceState   []price  `json:"prices"`
 	Images       []img    `json:"images"`
 	NewArrival   bool     `json:"newArrival"`
 	ProductImage string   `json:"productImage"`
 	ProductName  string   `json:"productName"`
-	Swatches     []swatch `json:"swatches"`
+	Swatches     []swatch `json:"swatches"`	
 	LinkToSite   string   `json:"url"`
 	Details      details  `json:"details"`
 }
 
-func (p *product) UnmarshalJSON(data []byte) error {
-	type Alias product
-	aux := &struct {
-		ColorHex   string `json:"colors"`
-		ColorName  string `json:"colorName"`
-		ColorShade string `json:"colourShades"`
-		*Alias
-	}{
-		Alias: (*Alias)(p),
-	}
-
-	if err := json.Unmarshal(data, &aux); err != nil {
-		return err
-	}
-
-	p.ColorState = color{
-		ColorName:  aux.ColorName,
-		ColorShade: aux.ColorShade,
-		ColorHex:   aux.ColorHex,
-	}
-	return nil
-}
 
 var query = map[string]string{
 	"pageSource":     "PLP",
