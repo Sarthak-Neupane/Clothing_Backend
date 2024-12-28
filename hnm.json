@@ -1,0 +1,2655 @@
+[
+	{
+		"id": "0970817001",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 19.99",
+				"price": 19.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/ac/fa/acfa9bb311838233ba05d4c41f363f2012ebe719.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/96/1e/961eec5efc8dd23bc0dd7cf93641da1bd2f3268a.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/24/35/2435458dc0669926ec87c7b8afca8dcadab59fbd.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/52/0c/520c3a3b9b3101e385b4dae52aa3910db26cfe2a.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/97/b6/97b69c0b846fa9ea5a42a21c5dc0b4d423108993.jpg",
+		"productName": "Regular Fit Sweatpants",
+		"swatches": [
+			{
+				"articleId": "0970817001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.0970817001.html"
+			},
+			{
+				"articleId": "0970817042",
+				"colorName": "Dark taupe",
+				"colorCode": "5C595B",
+				"url": "/en_us/productpage.0970817042.html"
+			},
+			{
+				"articleId": "0970817039",
+				"colorName": "Dark blue",
+				"colorCode": "23263B",
+				"url": "/en_us/productpage.0970817039.html"
+			},
+			{
+				"articleId": "0970817047",
+				"colorName": "Black",
+				"colorCode": "323232",
+				"url": "/en_us/productpage.0970817047.html"
+			},
+			{
+				"articleId": "0970817024",
+				"colorName": "Cream",
+				"colorCode": "C0BBAD",
+				"url": "/en_us/productpage.0970817024.html"
+			},
+			{
+				"articleId": "0970817037",
+				"colorName": "Light gray melange",
+				"colorCode": "C8C8C8",
+				"url": "/en_us/productpage.0970817037.html"
+			},
+			{
+				"articleId": "0970817038",
+				"colorName": "Beige",
+				"colorCode": "A9A398",
+				"url": "/en_us/productpage.0970817038.html"
+			}
+		],
+		"url": "/en_us/productpage.0970817001.html",
+		"details": {
+			"description": "Regular-fit, comfortable sweatpants in lightweight, cotton-blend fabric with a classic silhouette. Drawstring and covered elastic at waistband, side-seam pockets, and ribbed hems. Soft, brushed inside.",
+			"fit": {
+				"Concept:": "BASICS",
+				"Description:": "Black, Solid-color",
+				"Fit:": "Regular fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Style:": "Joggers, Sweatpants, Tapered",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"material_0": "Cotton 60%, Polyester 40%"
+			}
+		}
+	},
+	{
+		"id": "1012056002",
+		"colorName": "Gray melange",
+		"colors": "AFAFAF",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 24.99",
+				"price": 24.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/e8/0f/e80f157c54d45adbd6cfd7cfa8b29c6138a47861.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/5f/3d/5f3d9961f34e20c15fd6a1fc5f076b34913d6151.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/17/7a/177a60a058ca1742602aeb1a2c6d330593713fd1.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/76/87/768737634708c578eafcb1062e5e281f18d1e14e.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/d8/a8/d8a85a6bcbdfb16750451b8ba44b05634d4dfd6f.jpg",
+		"productName": "Loose Fit Sweatpants",
+		"swatches": [
+			{
+				"articleId": "1012056002",
+				"colorName": "Gray melange",
+				"colorCode": "AFAFAF",
+				"url": "/en_us/productpage.1012056002.html"
+			},
+			{
+				"articleId": "1012056001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1012056001.html"
+			},
+			{
+				"articleId": "1012056029",
+				"colorName": "Dark taupe",
+				"colorCode": "5C595B",
+				"url": "/en_us/productpage.1012056029.html"
+			},
+			{
+				"articleId": "1012056013",
+				"colorName": "Navy blue",
+				"colorCode": "23263B",
+				"url": "/en_us/productpage.1012056013.html"
+			}
+		],
+		"url": "/en_us/productpage.1012056002.html",
+		"details": {
+			"description": "Loose-fit sweatpants in medium weight cotton-blend fabric for a generous, but not oversized silhouette. Drawstring and covered elastic at waistband, side-seam pockets, and ribbed hems. Soft, brushed inside.",
+			"fit": {
+				"Concept:": "BASICS",
+				"Description:": "Gray melange",
+				"Fit:": "Relaxed fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 182cm/6'0\" and wears a size M",
+				"Style:": "Joggers, Sweatpants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"material_0": "Cotton 75%, Polyester 22%, Rayon 3%"
+			}
+		}
+	},
+	{
+		"id": "1253393003",
+		"colorName": "Dark gray",
+		"colors": "525457",
+		"colourShades": "Charcoal|Dark gray",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/cc/24/cc244fb63a0f466b1e4808a68d8d3d503c59ade4.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/f5/7d/f57d178099627e8a27ece11bbd27ae51c8adfe0d.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/9b/b4/9bb4e87c3c62ee34a10f56794d2d5417a9eadb7d.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/56/68/56684b88af13d00a7931db9fb27995aa5cd0eb3c.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/03/80/038030785b08fad365e7e54365b895482643f556.jpg"
+			}
+		],
+		"newArrival": true,
+		"productImage": "https://image.hm.com/assets/hm/aa/d5/aad5ca7d7a93d8fe62e69c53f132fe43c2bbf2d9.jpg",
+		"productName": "Slim-Fit Cargo Pants",
+		"swatches": [
+			{
+				"articleId": "1253393003",
+				"colorName": "Dark gray",
+				"colorCode": "525457",
+				"url": "/en_us/productpage.1253393003.html"
+			},
+			{
+				"articleId": "1253393001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1253393001.html"
+			},
+			{
+				"articleId": "1253393002",
+				"colorName": "Khaki green",
+				"colorCode": "5C6054",
+				"url": "/en_us/productpage.1253393002.html"
+			},
+			{
+				"articleId": "1253393004",
+				"colorName": "Light beige",
+				"colorCode": "B5AFA0",
+				"url": "/en_us/productpage.1253393004.html"
+			}
+		],
+		"url": "/en_us/productpage.1253393003.html",
+		"details": {
+			"description": "Slim-fit pants in woven cotton with a fitted silhouette. Drawstring, covered elastic, and mock fly at waistband. Diagonal side pockets, back pockets with flap and concealed snap fasteners, and leg pockets with flap and concealed snap fasteners. Tapered legs with seams and darts at knees.",
+			"fit": {
+				"Description:": "Dark gray, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 81.0 in. (Size L)",
+				"Style:": "Cargo, Tapered",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Cotton 100%",
+				"Shell:": "Cotton 98%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "0970816009",
+		"colorName": "Black/gray melange",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/f2/59/f259977c3fddd50d441cd219e740920ef37bcea5.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/59/a4/59a4f0a88121445807ecc0d7714d59b5c5041fbd.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/2b/cb/2bcbf102b6468e3e4342f67055a3b6189e888c09.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/04/3c/043c817d06ba591af1168e00c822f2f88943beeb.jpg",
+		"productName": "2-pack Regular Fit Sweatpants",
+		"swatches": [
+			{
+				"articleId": "0970816009",
+				"colorName": "Black/gray melange",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.0970816009.html"
+			},
+			{
+				"articleId": "0970816020",
+				"colorName": "Gray/navy blue",
+				"colorCode": "5C595B",
+				"url": "/en_us/productpage.0970816020.html"
+			},
+			{
+				"articleId": "0970816015",
+				"colorName": "Light blue/beige",
+				"colorCode": "7E8EA6",
+				"url": "/en_us/productpage.0970816015.html"
+			}
+		],
+		"url": "/en_us/productpage.0970816009.html",
+		"details": {
+			"description": "Regular-fit, comfortable sweatpants in lightweight, cotton-blend fabric with a classic silhouette. Drawstring and covered elastic at waistband, side-seam pockets, and ribbed hems. Soft, brushed inside.",
+			"fit": {
+				"Concept:": "BASICS",
+				"Description:": "Black/gray melange, Solid-color",
+				"Fit:": "Regular fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Pieces/Pairs:": "2",
+				"Style:": "Joggers, Sweatpants, Tapered",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"material_0": "Cotton 72%, Polyester 24%, Rayon 4%",
+				"material_1": "Cotton 60%, Polyester 40%"
+			}
+		}
+	},
+	{
+		"id": "1248348004",
+		"colorName": "Beige",
+		"colors": "AA9A81",
+		"colourShades": "Ecru|Taupe|Wheat",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 29.99",
+				"price": 29.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/85/4f/854f05e5edde495ba0d43239744aa4c9374b623e.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/06/a2/06a2c81ad4da0e9212a32234da50ee1e6ad88311.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/c8/36/c8367adfe9d4a2f7ba6cc8a765d74f160003a683.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/44/0c/440c7276f1a3a02b736b1d5ba7bfe3997ec9be74.jpg"
+			}
+		],
+		"newArrival": true,
+		"productImage": "https://image.hm.com/assets/hm/05/ea/05eaf4f96d11a3cb3ef7124aeaf4a94f6c9260a3.jpg",
+		"productName": "Slim-Fit Cotton Chinos",
+		"swatches": [
+			{
+				"articleId": "1248348004",
+				"colorName": "Beige",
+				"colorCode": "AA9A81",
+				"url": "/en_us/productpage.1248348004.html"
+			},
+			{
+				"articleId": "1248348002",
+				"colorName": "Beige",
+				"colorCode": "B5AFA0",
+				"url": "/en_us/productpage.1248348002.html"
+			},
+			{
+				"articleId": "1248348001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1248348001.html"
+			},
+			{
+				"articleId": "1248348003",
+				"colorName": "Navy blue",
+				"colorCode": "272930",
+				"url": "/en_us/productpage.1248348003.html"
+			},
+			{
+				"articleId": "1248348007",
+				"colorName": "Dark gray",
+				"colorCode": "383A3D",
+				"url": "/en_us/productpage.1248348007.html"
+			}
+		],
+		"url": "/en_us/productpage.1248348004.html",
+		"details": {
+			"description": "Slim-fit chinos in stretch cotton twill with a fitted silhouette. Zip fly with button, diagonal side pockets, and welt back pockets with button.",
+			"fit": {
+				"Description:": "Beige, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 187cm/6'2\" and wears a size 32",
+				"Style:": "Chinos",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Cotton 100%",
+				"Shell:": "Cotton 98%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1242238001",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/d0/cc/d0ccbcf11bc471889e934ed504f8ca6e7b3be382.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/fb/e1/fbe1b18ec1154c523ce14a0b0efff629e43ffe5a.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/70/1d/701d1c3cf47eda64af5536e97a3d5890752c69af.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/da/78/da7824724fca96f2c8ee5e54a33a2250d71653d6.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/d7/7f/d77fcd80b5739b1c22a585e2f4c38b2b0c10cfe3.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/a5/71/a571365c82f3f05945cd8c5e12819eb4ea24f3bf.jpg",
+		"productName": "Slim Fit Cargo Pants",
+		"swatches": [
+			{
+				"articleId": "1242238001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1242238001.html"
+			},
+			{
+				"articleId": "1242238002",
+				"colorName": "Dark gray",
+				"colorCode": "6E6E6E",
+				"url": "/en_us/productpage.1242238002.html"
+			}
+		],
+		"url": "/en_us/productpage.1242238001.html",
+		"details": {
+			"description": "Slim-fit cargo pants in piqué with a fitted silhouette. Regular waist, concealed drawstring and covered elastic at back of waistband, and zip fly with snap fastener. Diagonal side pockets, welt back pockets, and leg pockets with flap and snap fasteners.",
+			"fit": {
+				"Description:": "Black, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Style:": "Cargo",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 65%, Cotton 35%",
+				"Shell:": "Polyamide 51%, Polyester 31%, Rayon 14%, Spandex 4%"
+			}
+		}
+	},
+	{
+		"id": "1254903001",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/b1/fe/b1fe57212ebfae5a98ce53de9e43b1a4718f52fb.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/7e/c2/7ec2a868250d06cdc71a5be4c85f914c437df6a6.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/5d/9a/5d9af4f6f3c55dc650c055409fd44b7229b0e3cf.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/52/cf/52cfd98dfef8b6716296f622f734d38f718d532b.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/80/16/8016ec4fe168aed4949f557ce7a51e507ea28f31.jpg",
+		"productName": "Regular-Fit Cargo Pants",
+		"swatches": [
+			{
+				"articleId": "1254903001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1254903001.html"
+			},
+			{
+				"articleId": "1254903002",
+				"colorName": "White",
+				"colorCode": "EEEDE4",
+				"url": "/en_us/productpage.1254903002.html"
+			}
+		],
+		"url": "/en_us/productpage.1254903001.html",
+		"details": {
+			"description": "Regular-fit cargo pants in soft twill with creased legs and a comfortable, classic silhouette. Elasticized waistband and zip fly with concealed snap fasteners. Diagonal side pockets, welt back pocket, and leg pockets with flap.",
+			"fit": {
+				"Description:": "Black, Solid-color",
+				"Fit:": "Regular fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Waist: Circumference: 92.0 in. (Size L), Outer leg: Length: 104.5 in. (Size L), Inner leg: Length: 80.0 in. (Size L)",
+				"Style:": "Cargo, Straight Leg",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 80%, Cotton 20%",
+				"Shell:": "Polyester 65%, Rayon 35%",
+				"Waist:": "Polyester 98%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1242238002",
+		"colorName": "Dark gray",
+		"colors": "6E6E6E",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/50/51/5051f74fcc0b8b922cc6a0b67026d815dab58bb5.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/df/1b/df1bbe313bb13423659c9f2ce3ff43e86ad4cc51.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/b9/00/b9006e364404c3e347efe55df4b3541523ce529b.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ea/34/ea34b0e306b2a1a91b9e3ad3cb1f75ea063e3052.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/b0/a3/b0a32f59dcb63ccd4984825152bea49c9d9536d1.jpg"
+			}
+		],
+		"newArrival": true,
+		"productImage": "https://image.hm.com/assets/hm/23/46/234604f997dd5e95792c01fd55291301cc96a178.jpg",
+		"productName": "Slim Fit Cargo Pants",
+		"swatches": [
+			{
+				"articleId": "1242238002",
+				"colorName": "Dark gray",
+				"colorCode": "6E6E6E",
+				"url": "/en_us/productpage.1242238002.html"
+			},
+			{
+				"articleId": "1242238001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1242238001.html"
+			}
+		],
+		"url": "/en_us/productpage.1242238002.html",
+		"details": {
+			"description": "Slim-fit cargo pants in piqué with a fitted silhouette. Regular waist, concealed drawstring and covered elastic at back of waistband, and zip fly with snap fastener. Diagonal side pockets, welt back pockets, and leg pockets with flap and snap fasteners.",
+			"fit": {
+				"Description:": "Dark gray, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Style:": "Cargo",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 65%, Cotton 35%",
+				"Shell:": "Polyamide 51%, Polyester 31%, Rayon 14%, Spandex 4%"
+			}
+		}
+	},
+	{
+		"id": "1253395003",
+		"colorName": "Dark gray",
+		"colors": "504F53",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 34.99",
+				"price": 34.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/2b/d1/2bd14588b29e9ba5a9869889da72549191943b7e.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/21/e8/21e8b34a8451f19164d460a7eba14d1d99a837d3.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/a7/53/a75336f075e66f2212cd286d04290f6a61e4acd8.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/81/a5/81a57eb7853ea09908263713cc8db90720e13de1.jpg"
+			}
+		],
+		"newArrival": true,
+		"productImage": "https://image.hm.com/assets/hm/66/1a/661ac5e9a13f7395ab918b7837144e3e9498875c.jpg",
+		"productName": "Slim-Fit Tailored Pants",
+		"swatches": [
+			{
+				"articleId": "1253395003",
+				"colorName": "Dark gray",
+				"colorCode": "504F53",
+				"url": "/en_us/productpage.1253395003.html"
+			},
+			{
+				"articleId": "1253395001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1253395001.html"
+			},
+			{
+				"articleId": "1253395006",
+				"colorName": "Navy blue",
+				"colorCode": "2B2C32",
+				"url": "/en_us/productpage.1253395006.html"
+			},
+			{
+				"articleId": "1253395005",
+				"colorName": "Beige",
+				"colorCode": "A9A39B",
+				"url": "/en_us/productpage.1253395005.html"
+			},
+			{
+				"articleId": "1253395002",
+				"colorName": "Gray",
+				"colorCode": "6C6D6E",
+				"url": "/en_us/productpage.1253395002.html"
+			}
+		],
+		"url": "/en_us/productpage.1253395003.html",
+		"details": {
+			"description": "Slim-fit tailored pants in soft, woven fabric with a fitted silhouette. Zip fly with button, side pockets, and welt back pockets with button. Creased legs.",
+			"fit": {
+				"Description:": "Dark gray, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 187cm/6'2\" and wears a size 32",
+				"Size:": "Inner leg: Length: 80.5 in. (Size 33), Waist: Circumference: 91.0 in. (Size 33)",
+				"Style:": "Slacks",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 65%, Cotton 35%",
+				"Shell:": "Polyester 67%, Rayon 29%, Spandex 4%"
+			}
+		}
+	},
+	{
+		"id": "1074402001",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 24.99",
+				"price": 24.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/2b/c0/2bc02e3cd53194ae62a3c951e1642305c1f9b7a9.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/37/6b/376b379098939a8470506703483ede3a24b89429.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/78/54/7854599b72ed9453125ddff1dc18d77ea1d8ae7d.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/1d/ab/1dab7bc92d47515a8462b35a8599b68d82362144.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/a1/ee/a1ee965fe8a36968f37a566867d4e77a5db6f9c5.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/cd/d7/cdd7aea4d00fc65196abef349fa469ee23b3d22b.jpg",
+		"productName": "Slim Fit Cotton Twill Pants",
+		"swatches": [
+			{
+				"articleId": "1074402001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1074402001.html"
+			},
+			{
+				"articleId": "1074402002",
+				"colorName": "Navy blue",
+				"colorCode": "393A45",
+				"url": "/en_us/productpage.1074402002.html"
+			},
+			{
+				"articleId": "1074402003",
+				"colorName": "Dark gray",
+				"colorCode": "383A3D",
+				"url": "/en_us/productpage.1074402003.html"
+			},
+			{
+				"articleId": "1074402014",
+				"colorName": "Light beige",
+				"colorCode": "B5AFA0",
+				"url": "/en_us/productpage.1074402014.html"
+			},
+			{
+				"articleId": "1074402004",
+				"colorName": "Khaki green",
+				"colorCode": "57564B",
+				"url": "/en_us/productpage.1074402004.html"
+			},
+			{
+				"articleId": "1074402018",
+				"colorName": "Gray",
+				"colorCode": "989799",
+				"url": "/en_us/productpage.1074402018.html"
+			}
+		],
+		"url": "/en_us/productpage.1074402001.html",
+		"details": {
+			"description": "Slim-fit, 5-pocket pants in cotton twill. Zip fly with button.",
+			"fit": {
+				"Concept:": "H\u0026M MAN",
+				"Description:": "Black, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 187cm/6'2\" and wears a size 32/32",
+				"Size:": "Inner leg: Length: 79.5 in. (Size 33/32)",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Cotton 100%",
+				"Shell:": "Cotton 98%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1247435002",
+		"colorName": "Navy blue",
+		"colors": "1A2840",
+		"colourShades": "Bright blue|Cobalt blue|Dark blue|Indigo|Navy blue|Royal blue",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/e3/50/e350fb6fb0e37a5f133279b23cda109107d65de9.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/46/1d/461d8898dbd6b038906abca983635eca24e38bd0.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/d6/fb/d6fb5b97226a4dcc4d8b5e6ac760623d1501ed4b.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/27/e5/27e596ef20eaeb7a73e6d8c41616ff85638b39a9.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ca/0f/ca0fe496a6e6a1527386bb716f330cef3dda52ec.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/e3/ff/e3ff7b0074e166195b6c0a9dbcf728d94813dd38.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/83/27/832788c5ea8e80266ead6180c9765f453bd972e6.jpg",
+		"productName": "Relaxed Fit Twill Pants",
+		"swatches": [
+			{
+				"articleId": "1247435002",
+				"colorName": "Navy blue",
+				"colorCode": "1A2840",
+				"url": "/en_us/productpage.1247435002.html"
+			},
+			{
+				"articleId": "1247435001",
+				"colorName": "Black",
+				"colorCode": "232327",
+				"url": "/en_us/productpage.1247435001.html"
+			},
+			{
+				"articleId": "1247435003",
+				"colorName": "White",
+				"colorCode": "F0EFEC",
+				"url": "/en_us/productpage.1247435003.html"
+			}
+		],
+		"url": "/en_us/productpage.1247435002.html",
+		"details": {
+			"description": "Trousers in soft, brushed twill with covered elastication and a concealed drawstring at the waist. Zip fly with a button, discreet side pockets and welt back pockets. Relaxed fit for a casual but not oversized silhouette.",
+			"fit": {
+				"Description:": "Navy blue, Solid-color",
+				"Fit:": "Relaxed fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 189cm/6'2\" and wears a size L",
+				"Size:": "Outer leg: Length: 107.5 in. (Size L), Inner leg: Length: 79.0 in. (Size L)",
+				"Style:": "Slacks, Straight Leg",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 82%, Cotton 18%",
+				"Shell:": "Polyester 59%, Rayon 30%, Wool 10%, Spandex 1%"
+			}
+		}
+	},
+	{
+		"id": "1248183002",
+		"colorName": "Dark brown",
+		"colors": "3F3838",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/e4/92/e49282c856633779181da87acffc8f271d9a9f61.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/58/ff/58ff05a2296ecca74f762cba638dc1a02c21fe96.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/bf/b3/bfb3cbfc8b689c0c04048bfd0bea62899ae3db08.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/49/25/49252c1f19d36785251c2e54d7f5ebf05ceadd10.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/20/67/20675c23b30b819a18e039c83fa11568c18606dc.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/36/d2/36d2c3403afd7d35e2fe8de313fe7f391ed19bd5.jpg",
+		"productName": "Regular Fit Cargo trousers",
+		"swatches": [
+			{
+				"articleId": "1248183002",
+				"colorName": "Dark brown",
+				"colorCode": "3F3838",
+				"url": "/en_us/productpage.1248183002.html"
+			},
+			{
+				"articleId": "1248183001",
+				"colorName": "Dark gray",
+				"colorCode": "474343",
+				"url": "/en_us/productpage.1248183001.html"
+			}
+		],
+		"url": "/en_us/productpage.1248183002.html",
+		"details": {
+			"description": "Cargo trousers in a soft weave with covered elastication at each side of the waist and a zip fly and button. Side pockets, welt back pockets and flap leg pockets with concealed press-studs. Regular fit for comfortable wear and a classic silhouette.",
+			"fit": {
+				"Description:": "Dark brown, Solid-color",
+				"Fit:": "Regular fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 78.5 in. (Size 33)",
+				"Style:": "Cargo, Straight Leg",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 82%, Cotton 18%",
+				"Shell:": "Polyester 69%, Rayon 30%, Spandex 1%"
+			}
+		}
+	},
+	{
+		"id": "1252892001",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/4e/f7/4ef793642dc8bdf114af1fe486d1e137f2107c09.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/d2/f9/d2f9884dc5469c8b0eec7c5a4804e9c58afd6698.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/53/b6/53b60ba635fbe756c238368165d7e12856cd6076.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/e0/2c/e02c74ccc27e0806f9e72b7af0fbb79062967cec.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/b6/cd/b6cd64d0a0d864b0da928b851b305e1c2811bcee.jpg"
+			}
+		],
+		"newArrival": true,
+		"productImage": "https://image.hm.com/assets/hm/56/2d/562dc8ea050d38bfa73c91bc2334ad084893b36d.jpg",
+		"productName": "Slim-Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1252892001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1252892001.html"
+			},
+			{
+				"articleId": "1252892003",
+				"colorName": "Navy blue",
+				"colorCode": "54586D",
+				"url": "/en_us/productpage.1252892003.html"
+			},
+			{
+				"articleId": "1252892004",
+				"colorName": "Navy blue",
+				"colorCode": "29272B",
+				"url": "/en_us/productpage.1252892004.html"
+			},
+			{
+				"articleId": "1252892002",
+				"colorName": "Dark gray",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.1252892002.html"
+			}
+		],
+		"url": "/en_us/productpage.1252892001.html",
+		"details": {
+			"description": "Slim-fit suit pants in woven fabric with a fitted silhouette. Zip fly with concealed hook-and-bar fastening, side pockets, and welt back pockets. Creased legs.",
+			"fit": {
+				"Description:": "Black, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 78.0 in. (Size 36R), Outer leg: Length: 102.5 in. (Size 36R), Waist: Circumference: 94.5 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 70%, Rayon 28%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1252892003",
+		"colorName": "Navy blue",
+		"colors": "54586D",
+		"colourShades": "Bright blue|Cobalt blue|Dark blue|Indigo|Navy blue|Royal blue",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/a7/88/a788ffa659d940721564600087d4f51ef55d9d69.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/12/cb/12cbd90d46d17d3175cbd3a788e41d3776755659.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/41/67/4167d9c61093d87a8f425c0f1b75685dcb2073b2.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/8a/0f/8a0f48da3fd202e30eaa35a123f34aa99e24ea8e.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/7d/e7/7de741dddfa4b1a15ce9dbac38a23a4cc162d0a4.jpg"
+			}
+		],
+		"newArrival": true,
+		"productImage": "https://image.hm.com/assets/hm/d4/52/d45266b3b946d5b7bb31b1e54769f667cd6e61e8.jpg",
+		"productName": "Slim-Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1252892003",
+				"colorName": "Navy blue",
+				"colorCode": "54586D",
+				"url": "/en_us/productpage.1252892003.html"
+			},
+			{
+				"articleId": "1252892001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1252892001.html"
+			},
+			{
+				"articleId": "1252892004",
+				"colorName": "Navy blue",
+				"colorCode": "29272B",
+				"url": "/en_us/productpage.1252892004.html"
+			},
+			{
+				"articleId": "1252892002",
+				"colorName": "Dark gray",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.1252892002.html"
+			}
+		],
+		"url": "/en_us/productpage.1252892003.html",
+		"details": {
+			"description": "Slim-fit suit pants in woven fabric with a fitted silhouette. Zip fly with concealed hook-and-bar fastening, side pockets, and welt back pockets. Creased legs.",
+			"fit": {
+				"Description:": "Navy blue, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 78.0 in. (Size 36R), Outer leg: Length: 102.5 in. (Size 36R), Waist: Circumference: 94.5 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 65%, Rayon 33%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "0714032038",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/76/e8/76e8d4597ae9889112f27433f4c752627500a3a3.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/f9/e6/f9e6e23247193e757d8436bee873764f18a0b315.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/66/cb/66cb5daec7e6516f55dceef97a1e8dc5f755b0a4.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/a4/a1/a4a159cdda0c6f19e572d2a521faf1c48b781a90.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/30/f6/30f6c2484e78b9e4d823fe5a66edaaaa215e7ad9.jpg",
+		"productName": "Skinny Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "0714032038",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.0714032038.html"
+			},
+			{
+				"articleId": "0714032043",
+				"colorName": "Dark blue",
+				"colorCode": "454553",
+				"url": "/en_us/productpage.0714032043.html"
+			},
+			{
+				"articleId": "0714032051",
+				"colorName": "Dark gray",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.0714032051.html"
+			},
+			{
+				"articleId": "0714032049",
+				"colorName": "Navy blue",
+				"colorCode": "2B2C32",
+				"url": "/en_us/productpage.0714032049.html"
+			},
+			{
+				"articleId": "0714032047",
+				"colorName": "Burgundy",
+				"colorCode": "330F1A",
+				"url": "/en_us/productpage.0714032047.html"
+			},
+			{
+				"articleId": "0714032037",
+				"colorName": "Dark blue",
+				"colorCode": "343649",
+				"url": "/en_us/productpage.0714032037.html"
+			},
+			{
+				"articleId": "0714032048",
+				"colorName": "Dark gray",
+				"colorCode": "62615E",
+				"url": "/en_us/productpage.0714032048.html"
+			}
+		],
+		"url": "/en_us/productpage.0714032038.html",
+		"details": {
+			"description": "Skinny-fit suit pants in soft, woven fabric with a fitted silhouette. Zip fly with concealed hook-and-eye fastener. Side pockets, welt back pockets, and legs with creases.",
+			"fit": {
+				"Concept:": "H\u0026M MAN",
+				"Description:": "Black, Solid-color",
+				"Fit:": "Skinny fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Nice to know:": "H\u0026M Premium Selection",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 70%, Rayon 28%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1260450001",
+		"colorName": "Beige",
+		"colors": "9F9C96",
+		"colourShades": "Ecru|Stone",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/e5/ba/e5bade9046556305d40657ec68378776d1f4303f.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/62/4c/624ce32542bfbba203930ec7267565afcef5e5f3.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/16/4a/164a79018eb9a70afb75d56a14e649d11aa6f44b.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/e8/88/e888decb8a1e0cc2f0b0ad76d8229759449fa5b1.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/69/a2/69a253036e8c9eeec562565027ce3ed9b229ea8c.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/de/55/de55c22f092d80cb904e646355bcc5c525b88431.jpg"
+			}
+		],
+		"newArrival": true,
+		"productImage": "https://image.hm.com/assets/hm/5f/0f/5f0f069d6aba9ffbb357e006cf593a3b0ac137ee.jpg",
+		"productName": "Loose Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1260450001",
+				"colorName": "Beige",
+				"colorCode": "9F9C96",
+				"url": "/en_us/productpage.1260450001.html"
+			}
+		],
+		"url": "/en_us/productpage.1260450001.html",
+		"details": {
+			"description": "Loose-fit suit pants in soft woven fabric with a generous but not oversized silhouette. Waistband with concealed hook-and-bar fastener, zip fly with button, diagonal welt side pockets, and welt back pockets with button. Pleats at front and creases at front and back.",
+			"fit": {
+				"Description:": "Beige, Solid-color",
+				"Fit:": "Loose fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Waist: Circumference: 94.5 in. (Size 36R), Inner leg: Length: 78.5 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 65%, Rayon 33%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1239185001",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 79.99",
+				"price": 79.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/3c/9d/3c9dc4abada7047a3e40264b3d5f6ad6b1b5dcfe.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/34/3b/343b46155f4c7eebec9122ea1935fced08974402.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/f8/37/f837db22551b51632e44b5cd9ce176521b25c772.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/52/c9/52c9dcc855fbaa4bd0076d6216e759cfe54c4f6a.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/4c/7e/4c7e7edf46c9359d72f83ed03126b7cb45057cab.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/64/ca/64cae777fe17cad38e9d3611d04bda0f26dd82d7.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/4e/c5/4ec509b496a27af2f4b4cf8f63ffa8521908c437.jpg",
+		"productName": "Slim Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1239185001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1239185001.html"
+			},
+			{
+				"articleId": "1239185002",
+				"colorName": "Navy blue",
+				"colorCode": "29272B",
+				"url": "/en_us/productpage.1239185002.html"
+			},
+			{
+				"articleId": "1239185003",
+				"colorName": "Dark gray",
+				"colorCode": "343738",
+				"url": "/en_us/productpage.1239185003.html"
+			}
+		],
+		"url": "/en_us/productpage.1239185001.html",
+		"details": {
+			"description": "Slim-fit suit pants in woven fabric with a fitted silhouette. Hook-and-bar fasting, zip fly with concealed button, side pockets, and welt back pockets with button. Creased legs.",
+			"fit": {
+				"Description:": "Black, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Nice to know:": "H\u0026M Premium Selection",
+				"Size:": "Waist: Circumference: 94.0 in. (Size 36R), Inner leg: Length: 79.0 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Lining:": "Polyester 52%, Rayon 48%",
+				"Pocket lining:": "Polyester 80%, Cotton 20%",
+				"Shell:": "Wool 54%, Polyester 44%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "0714032051",
+		"colorName": "Dark gray",
+		"colors": "3A3A3D",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/6f/f1/6ff17c5fc189de689d253a2546cb7161e356664d.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/45/0f/450fd14ae3590e8be4d8120f68b215e335dd0280.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/4a/ac/4aac33fb2de827cdfb790b108ec4d36e777c2a41.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/33/91/3391bb1951681d23bc0de1b080976d56e1332281.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/43/18/431885ab9a012851538806c91e99c4b45869b821.jpg",
+		"productName": "Skinny Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "0714032051",
+				"colorName": "Dark gray",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.0714032051.html"
+			},
+			{
+				"articleId": "0714032043",
+				"colorName": "Dark blue",
+				"colorCode": "454553",
+				"url": "/en_us/productpage.0714032043.html"
+			},
+			{
+				"articleId": "0714032038",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.0714032038.html"
+			},
+			{
+				"articleId": "0714032049",
+				"colorName": "Navy blue",
+				"colorCode": "2B2C32",
+				"url": "/en_us/productpage.0714032049.html"
+			},
+			{
+				"articleId": "0714032047",
+				"colorName": "Burgundy",
+				"colorCode": "330F1A",
+				"url": "/en_us/productpage.0714032047.html"
+			},
+			{
+				"articleId": "0714032037",
+				"colorName": "Dark blue",
+				"colorCode": "343649",
+				"url": "/en_us/productpage.0714032037.html"
+			},
+			{
+				"articleId": "0714032048",
+				"colorName": "Dark gray",
+				"colorCode": "62615E",
+				"url": "/en_us/productpage.0714032048.html"
+			}
+		],
+		"url": "/en_us/productpage.0714032051.html",
+		"details": {
+			"description": "Skinny-fit suit pants in soft, woven fabric with a fitted silhouette. Zip fly with concealed hook-and-eye fastener. Side pockets, welt back pockets, and legs with creases.",
+			"fit": {
+				"Concept:": "H\u0026M MAN",
+				"Description:": "Dark gray, Solid-color",
+				"Fit:": "Skinny fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Nice to know:": "H\u0026M Premium Selection",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 90%, Cotton 10%",
+				"Shell:": "Polyester 67%, Rayon 30%, Spandex 3%"
+			}
+		}
+	},
+	{
+		"id": "1239185002",
+		"colorName": "Navy blue",
+		"colors": "29272B",
+		"colourShades": "Dark blue|Navy blue",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 79.99",
+				"price": 79.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/42/ef/42efc40759eb528ab4fbb65b6b46b8bcdd0d005c.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/eb/f8/ebf86cefa253c9fd7d6ba4e21a759a0a9500b7c0.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/50/32/5032acee773e96a66deb49c8fde0652bbb732beb.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ea/73/ea73583b85a73e8ae010ee9bdfad78eedfbf8075.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/04/29/0429a11fd39e7a55a710ba24101e1f1e35079e3e.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/d2/75/d2752e7472a494b4900eb4f18e2a744400d3c0c0.jpg",
+		"productName": "Slim Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1239185002",
+				"colorName": "Navy blue",
+				"colorCode": "29272B",
+				"url": "/en_us/productpage.1239185002.html"
+			},
+			{
+				"articleId": "1239185001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1239185001.html"
+			},
+			{
+				"articleId": "1239185003",
+				"colorName": "Dark gray",
+				"colorCode": "343738",
+				"url": "/en_us/productpage.1239185003.html"
+			}
+		],
+		"url": "/en_us/productpage.1239185002.html",
+		"details": {
+			"description": "Slim-fit suit pants in woven fabric with a fitted silhouette. Hook-and-bar fasting, zip fly with concealed button, side pockets, and welt back pockets with button. Creased legs.",
+			"fit": {
+				"Description:": "Navy blue, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Nice to know:": "H\u0026M Premium Selection",
+				"Size:": "Waist: Circumference: 94.0 in. (Size 36R), Inner leg: Length: 79.0 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Lining:": "Polyester 52%, Rayon 48%",
+				"Pocket lining:": "Polyester 80%, Cotton 20%",
+				"Shell:": "Wool 54%, Polyester 44%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "0714032049",
+		"colorName": "Navy blue",
+		"colors": "2B2C32",
+		"colourShades": "Dark blue|Navy blue",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/02/e6/02e6d2cd75e7c3fb3a830d4cf4a46c4d7ab206e4.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ec/46/ec4678e338a676310964352bc97c018c0a018739.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/50/91/5091744eb5d423d13a17aa027aa9563d6ba0d32c.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/21/6d/216d0f5536fa45801f354def4b8ac8aa13c5284e.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/4e/ea/4eea0d4d208571c3b888fd26e8e1f921cf21d3fa.jpg",
+		"productName": "Skinny Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "0714032049",
+				"colorName": "Navy blue",
+				"colorCode": "2B2C32",
+				"url": "/en_us/productpage.0714032049.html"
+			},
+			{
+				"articleId": "0714032043",
+				"colorName": "Dark blue",
+				"colorCode": "454553",
+				"url": "/en_us/productpage.0714032043.html"
+			},
+			{
+				"articleId": "0714032038",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.0714032038.html"
+			},
+			{
+				"articleId": "0714032051",
+				"colorName": "Dark gray",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.0714032051.html"
+			},
+			{
+				"articleId": "0714032047",
+				"colorName": "Burgundy",
+				"colorCode": "330F1A",
+				"url": "/en_us/productpage.0714032047.html"
+			},
+			{
+				"articleId": "0714032037",
+				"colorName": "Dark blue",
+				"colorCode": "343649",
+				"url": "/en_us/productpage.0714032037.html"
+			},
+			{
+				"articleId": "0714032048",
+				"colorName": "Dark gray",
+				"colorCode": "62615E",
+				"url": "/en_us/productpage.0714032048.html"
+			}
+		],
+		"url": "/en_us/productpage.0714032049.html",
+		"details": {
+			"description": "Skinny-fit suit pants in soft, woven fabric with a fitted silhouette. Zip fly with concealed hook-and-eye fastener. Side pockets, welt back pockets, and legs with creases.",
+			"fit": {
+				"Concept:": "H\u0026M MAN",
+				"Description:": "Navy blue, Solid-color",
+				"Fit:": "Skinny fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 189cm/6'2\" and wears a size 38R",
+				"Nice to know:": "H\u0026M Premium Selection",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket:": "Polyester 65%, Cotton 35%",
+				"material_0": "Polyester 77%, Rayon 17%, Wool 6%"
+			}
+		}
+	},
+	{
+		"id": "1232125006",
+		"colorName": "White",
+		"colors": "E9E4DA",
+		"colourShades": "Cream|Gray white|Ivory|White gray",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 34.99",
+				"price": 34.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/20/60/20609e11644d09bf0dfc80c1504ebcdac3eab60a.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/f3/29/f329915a95ffca435a0fcea1f8a10d9803e142e7.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/2c/76/2c76498f069a72f34658fb4e87f25d2a512cacb1.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/0c/cf/0ccfeb145ad996c6b1882aa6d5cdae1116d0772a.jpg",
+		"productName": "Regular Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1232125006",
+				"colorName": "White",
+				"colorCode": "E9E4DA",
+				"url": "/en_us/productpage.1232125006.html"
+			},
+			{
+				"articleId": "1232125005",
+				"colorName": "Beige",
+				"colorCode": "C1AC93",
+				"url": "/en_us/productpage.1232125005.html"
+			},
+			{
+				"articleId": "1232125004",
+				"colorName": "Dark gray/pinstriped",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.1232125004.html"
+			},
+			{
+				"articleId": "1232125002",
+				"colorName": "Dark gray",
+				"colorCode": "383A3D",
+				"url": "/en_us/productpage.1232125002.html"
+			},
+			{
+				"articleId": "1232125001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1232125001.html"
+			}
+		],
+		"url": "/en_us/productpage.1232125006.html",
+		"details": {
+			"description": "Regular-fit suit pants in soft, woven fabric with a comfortable, classic silhouette. Zip fly, extended waistband with button, side pockets, welt back pockets with button, and legs with creases.",
+			"fit": {
+				"Description:": "White, Solid-color",
+				"Fit:": "Regular fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 79.5 in. (Size 33)",
+				"Style:": "Slacks, Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 90%, Cotton 10%",
+				"Shell:": "Polyester 69%, Rayon 29%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1232125005",
+		"colorName": "Beige",
+		"colors": "C1AC93",
+		"colourShades": "Ecru|Taupe|Wheat",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 34.99",
+				"price": 34.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/61/a3/61a36e91b73ca5c3d0de3c0da947ee8e5bae8aac.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/b2/18/b21834339f2642d97fd517e3ba77968661fd1c25.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/04/07/0407083876dcf04a45866fcebbd4c06ccc29ba81.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/2a/dc/2adce86fd3cc08a8809df7e14e93f0413e10cfcc.jpg",
+		"productName": "Regular Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1232125005",
+				"colorName": "Beige",
+				"colorCode": "C1AC93",
+				"url": "/en_us/productpage.1232125005.html"
+			},
+			{
+				"articleId": "1232125006",
+				"colorName": "White",
+				"colorCode": "E9E4DA",
+				"url": "/en_us/productpage.1232125006.html"
+			},
+			{
+				"articleId": "1232125004",
+				"colorName": "Dark gray/pinstriped",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.1232125004.html"
+			},
+			{
+				"articleId": "1232125002",
+				"colorName": "Dark gray",
+				"colorCode": "383A3D",
+				"url": "/en_us/productpage.1232125002.html"
+			},
+			{
+				"articleId": "1232125001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1232125001.html"
+			}
+		],
+		"url": "/en_us/productpage.1232125005.html",
+		"details": {
+			"description": "Regular-fit suit pants in soft, woven fabric with a comfortable, classic silhouette. Zip fly, extended waistband with button, side pockets, welt back pockets with button, and legs with creases.",
+			"fit": {
+				"Description:": "Beige, Solid-color",
+				"Fit:": "Regular fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 79.5 in. (Size 33)",
+				"Style:": "Slacks, Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 90%, Cotton 10%",
+				"Shell:": "Polyester 69%, Rayon 29%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1241439001",
+		"colorName": "Light taupe melange",
+		"colors": "B1AAA7",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 59.99",
+				"price": 59.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/04/f5/04f5a3b5dc34a04784c0e819df16c1cc0087b444.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/12/0d/120d3b3d702e945334cebd10e81c2d8ee8476268.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/11/67/1167176444b0cb2fdb1e9287f6b746f2d1d01003.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/8c/e4/8ce443e51f6b04920be23c7c08bcaf2fae7777c0.jpg",
+		"productName": "Viscose-Blend Dress Pants",
+		"swatches": [
+			{
+				"articleId": "1241439001",
+				"colorName": "Light taupe melange",
+				"colorCode": "B1AAA7",
+				"url": "/en_us/productpage.1241439001.html"
+			}
+		],
+		"url": "/en_us/productpage.1241439001.html",
+		"details": {
+			"description": "Regular-fit, full-length dress pants in a viscose blend with a comfortable, classic silhouette. Button and hook-and-bar fastening, slanted side pockets, and welt back pockets. Creases at front and back.",
+			"fit": {
+				"Collection:": "A/W 2024",
+				"Description:": "Light taupe melange, Solid-color",
+				"Fit:": "Regular fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 76.5 in. (Size 36R), Waist: Circumference: 94.5 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 67%, Rayon 29%, Spandex 4%"
+			}
+		}
+	},
+	{
+		"id": "1232198002",
+		"colorName": "Dark gray/pinstriped",
+		"colors": "4F5155",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/d1/4d/d14d38da5c0d2505923331cf8c4c0e641dbd90ee.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ec/60/ec607384d48f5efc5e0a3cbed9894794d7c6a117.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/8f/1f/8f1f04e604660698f573b4534dae7f878ff74b31.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/6c/93/6c930b59d03baf5ffb880d6f75c3cad1abf94087.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/5d/ea/5dea56bc332481a448bdf3571751af1053d1d2f6.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/14/91/1491adb598a812a5122161c0e492ec0fdda90b41.jpg",
+		"productName": "Relaxed Fit Wool-Blend Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1232198002",
+				"colorName": "Dark gray/pinstriped",
+				"colorCode": "4F5155",
+				"url": "/en_us/productpage.1232198002.html"
+			},
+			{
+				"articleId": "1232198001",
+				"colorName": "Dark gray",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.1232198001.html"
+			}
+		],
+		"url": "/en_us/productpage.1232198002.html",
+		"details": {
+			"description": "Relaxed-fit suit pants in a woven wool blend with a casual but not oversized silhouette. Waistband with hook-and-eye fastener and zip fly with button. Side pockets, welt back pockets, and legs with creases.",
+			"fit": {
+				"Collection:": "A/W 2024",
+				"Description:": "Dark gray, Pinstriped",
+				"Fit:": "Relaxed fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 187cm/6'2\" and wears a size 34",
+				"Size:": "Inner leg: Length: 79.0 in. (Size 33), Waist: Circumference: 90.0 in. (Size 33)",
+				"Style:": "Slacks, Straight Leg, Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 50%, Wool 40%, Other fibres 10%"
+			}
+		}
+	},
+	{
+		"id": "1232198001",
+		"colorName": "Dark gray",
+		"colors": "3A3A3D",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/1a/e6/1ae69706ae08447d2e4f6beb7dd7bd606c2ba312.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ea/03/ea031dc4fe0d5718615e419e37925377df39c762.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/f2/f0/f2f024c02f4e040aab93bf05e5b8b72447263b58.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ac/73/ac73941f888696969ac601f136460ca1a9df94be.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/56/89/5689c34da5466d6773618042149bcdab7967f036.jpg",
+		"productName": "Relaxed Fit Wool-Blend Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1232198001",
+				"colorName": "Dark gray",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.1232198001.html"
+			},
+			{
+				"articleId": "1232198002",
+				"colorName": "Dark gray/pinstriped",
+				"colorCode": "4F5155",
+				"url": "/en_us/productpage.1232198002.html"
+			}
+		],
+		"url": "/en_us/productpage.1232198001.html",
+		"details": {
+			"description": "Relaxed-fit suit pants in a woven wool blend with a casual but not oversized silhouette. Waistband with hook-and-eye fastener and zip fly with button. Side pockets, welt back pockets, and legs with creases.",
+			"fit": {
+				"Collection:": "A/W 2024",
+				"Description:": "Dark gray, Solid-color",
+				"Fit:": "Relaxed fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 79.0 in. (Size 33), Waist: Circumference: 90.0 in. (Size 33)",
+				"Style:": "Slacks, Straight Leg, Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 66%, Wool 28%, Other fibres 6%"
+			}
+		}
+	},
+	{
+		"id": "1252892004",
+		"colorName": "Navy blue",
+		"colors": "29272B",
+		"colourShades": "Dark blue|Navy blue",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/df/c7/dfc7e6609dbd09812bf50512703bca155bd9dc47.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/c2/96/c296a606bd3bca0c52b7f644bcf20327754483ad.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/32/ac/32acab6a22ab8355da76740b36f8b7c1f7f6bdbe.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/79/db/79db641378d80a2ab08cdce139684bd7e7964c13.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/fc/4a/fc4aa06da23aaf95561e3d03e63c96162eb92f57.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/a3/dd/a3ddbdec1d99164b2368dc1f60992107f14bbadf.jpg"
+			}
+		],
+		"newArrival": true,
+		"productImage": "https://image.hm.com/assets/hm/da/88/da8899712c9c855fe0192802e243ee52f860bd80.jpg",
+		"productName": "Slim-Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1252892004",
+				"colorName": "Navy blue",
+				"colorCode": "29272B",
+				"url": "/en_us/productpage.1252892004.html"
+			},
+			{
+				"articleId": "1252892001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1252892001.html"
+			},
+			{
+				"articleId": "1252892003",
+				"colorName": "Navy blue",
+				"colorCode": "54586D",
+				"url": "/en_us/productpage.1252892003.html"
+			},
+			{
+				"articleId": "1252892002",
+				"colorName": "Dark gray",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.1252892002.html"
+			}
+		],
+		"url": "/en_us/productpage.1252892004.html",
+		"details": {
+			"description": "Slim-fit suit pants in woven fabric with a fitted silhouette. Zip fly with concealed hook-and-bar fastening, side pockets, and welt back pockets. Creased legs.",
+			"fit": {
+				"Description:": "Navy blue, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Inner leg: Length: 78.0 in. (Size 36R), Outer leg: Length: 102.5 in. (Size 36R), Waist: Circumference: 94.5 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 65%, Rayon 33%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1239185003",
+		"colorName": "Dark gray",
+		"colors": "343738",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 79.99",
+				"price": 79.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/e5/b6/e5b6f544bb8f87a04fa1e8156bc0ad1adeeb28ed.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/8f/9d/8f9d8dc8bc4eb00b49468df58f8e9aa63a8ed3b4.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/90/1e/901e456b88f132069ffaa388afbb472d5cfbe5bd.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/19/ee/19ee343094792209733dddd081396e8cdfe9fa2d.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/62/c4/62c471d08e8ad7e23f4eda0049a5543a8abaa684.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/cd/1c/cd1c120f4036ed8ae6e3cf926633e67329c79398.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/7d/c6/7dc64cbcc3deecdd4be95d331293c6cec87d7a44.jpg",
+		"productName": "Slim Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1239185003",
+				"colorName": "Dark gray",
+				"colorCode": "343738",
+				"url": "/en_us/productpage.1239185003.html"
+			},
+			{
+				"articleId": "1239185001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1239185001.html"
+			},
+			{
+				"articleId": "1239185002",
+				"colorName": "Navy blue",
+				"colorCode": "29272B",
+				"url": "/en_us/productpage.1239185002.html"
+			}
+		],
+		"url": "/en_us/productpage.1239185003.html",
+		"details": {
+			"description": "Slim-fit suit pants in woven fabric with a fitted silhouette. Hook-and-bar fasting, zip fly with concealed button, side pockets, and welt back pockets with button. Creased legs.",
+			"fit": {
+				"Description:": "Dark gray, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Nice to know:": "H\u0026M Premium Selection",
+				"Size:": "Waist: Circumference: 94.0 in. (Size 36R), Inner leg: Length: 79.0 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Lining:": "Polyester 52%, Rayon 48%",
+				"Pocket lining:": "Polyester 80%, Cotton 20%",
+				"Shell:": "Wool 54%, Polyester 44%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1207894001",
+		"colorName": "Navy blue",
+		"colors": "2B2C32",
+		"colourShades": "Dark blue|Navy blue",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 59.99",
+				"price": 59.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/c3/e2/c3e28fe387874685a1caf918dc8c319b32cfd5b7.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/60/2d/602dc681c0e18736e7beb82ba63eeeb57f8e881d.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/df/fb/dffb69d3fa09c67a8934c281ffe9609cfb4b7e56.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/61/e6/61e643cb3096a4da9e5048afe6ac8d1afe1c00e8.jpg",
+		"productName": "Slim Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1207894001",
+				"colorName": "Navy blue",
+				"colorCode": "2B2C32",
+				"url": "/en_us/productpage.1207894001.html"
+			},
+			{
+				"articleId": "1207894002",
+				"colorName": "Beige",
+				"colorCode": "C1AC93",
+				"url": "/en_us/productpage.1207894002.html"
+			},
+			{
+				"articleId": "1207894003",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1207894003.html"
+			}
+		],
+		"url": "/en_us/productpage.1207894001.html",
+		"details": {
+			"description": "Slim-fit suit pants in soft, woven fabric with a fitted silhouette. Zip fly with concealed hook-and-eye fastening. Side pockets, welt back pockets, and straight legs with creases.",
+			"fit": {
+				"Description:": "Navy blue, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Waist: Circumference: 94.5 in. (Size 36R), Inner leg: Length: 78.5 in. (Size 36R)",
+				"Style:": "Straight Leg, Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 82%, Cotton 18%",
+				"Shell:": "Polyester 59%, Rayon 25%, Wool 14%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1162165010",
+		"colorName": "Brown/plaid",
+		"colors": "7C746B",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/77/d8/77d87384c3e1dfdc3fc8550e83b5c07ab3bfa35a.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/9c/13/9c13922ed0c3b2ed4ebf746a12a647f8f7cc7980.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/0d/a7/0da795a8cb937546c7f152a798e82786595760c6.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/f8/eb/f8eb5e9e71793f0d8ad0280d3f9742183def5e15.jpg",
+		"productName": "Slim Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1162165010",
+				"colorName": "Brown/plaid",
+				"colorCode": "7C746B",
+				"url": "/en_us/productpage.1162165010.html"
+			},
+			{
+				"articleId": "1162165009",
+				"colorName": "Dark gray/plaid",
+				"colorCode": "504F53",
+				"url": "/en_us/productpage.1162165009.html"
+			}
+		],
+		"url": "/en_us/productpage.1162165010.html",
+		"details": {
+			"description": "Slim-fit suit pants in soft, woven fabric. Zip fly with concealed hook-and-eye fastening. Side pockets, welt back pockets, and creased legs.",
+			"fit": {
+				"Description:": "Brown, Checked",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Waist: Circumference: 94.5 in. (Size 36R), Inner leg: Length: 78.5 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 90%, Cotton 10%",
+				"Shell:": "Polyester 67%, Rayon 29%, Spandex 4%"
+			}
+		}
+	},
+	{
+		"id": "0714026068",
+		"colorName": "Light beige",
+		"colors": "EFEFDF",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/36/0c/360c683201dd22801063ce2563404c98fad88a01.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/fa/6a/fa6afb123091a3a90facb0b34fd0e44503e18761.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/33/29/332933cd49a3830772a1dfbcf1f0f2c9e42d9a98.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/1d/49/1d498266e919ad660b5ebc661ddb5000c619a568.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/e7/8c/e78c4dc87b06c6543dbc2ff6fba811b4720b3ba2.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/9a/11/9a113712bb917e853c24d444d7bf6dda63e84f0b.jpg",
+		"productName": "Slim Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "0714026068",
+				"colorName": "Light beige",
+				"colorCode": "EFEFDF",
+				"url": "/en_us/productpage.0714026068.html"
+			},
+			{
+				"articleId": "0714026044",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.0714026044.html"
+			},
+			{
+				"articleId": "0714026067",
+				"colorName": "Navy blue",
+				"colorCode": "2B2C32",
+				"url": "/en_us/productpage.0714026067.html"
+			},
+			{
+				"articleId": "0714026063",
+				"colorName": "Dark blue",
+				"colorCode": "54586D",
+				"url": "/en_us/productpage.0714026063.html"
+			},
+			{
+				"articleId": "0714026074",
+				"colorName": "Dark gray melange",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.0714026074.html"
+			},
+			{
+				"articleId": "0714026069",
+				"colorName": "Taupe",
+				"colorCode": "7C746B",
+				"url": "/en_us/productpage.0714026069.html"
+			},
+			{
+				"articleId": "0714026064",
+				"colorName": "Dark gray-green",
+				"colorCode": "6F746D",
+				"url": "/en_us/productpage.0714026064.html"
+			},
+			{
+				"articleId": "0714026050",
+				"colorName": "Dark blue",
+				"colorCode": "54586D",
+				"url": "/en_us/productpage.0714026050.html"
+			},
+			{
+				"articleId": "0714026062",
+				"colorName": "Dark gray melange",
+				"colorCode": "62615E",
+				"url": "/en_us/productpage.0714026062.html"
+			}
+		],
+		"url": "/en_us/productpage.0714026068.html",
+		"details": {
+			"description": "Slim-fit suit pants in woven fabric. Zip fly with concealed hook-and-eye fastener. Side pockets, welt back pockets, and legs with creases.",
+			"fit": {
+				"Concept:": "H\u0026M MAN",
+				"Description:": "Light beige, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 187cm/6'2\" and wears a size 34R",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 67%, Rayon 30%, Spandex 3%",
+				"Waist:": "Cotton 91%, Polyester 9%"
+			}
+		}
+	},
+	{
+		"id": "0943982001",
+		"colorName": "Gray",
+		"colors": "6A6B70",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/85/fc/85fc87b1c93b0d357899f5ef6c2f2f5e2639374a.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/1a/fc/1afc56ab42889b44f4876c5bf28906ddad1097c6.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/55/1a/551a6afd51fa8adbafc4f6177fe752c82daa17f1.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/83/51/83516795c56a6d05984f6cd87b430f7a844004ed.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/be/76/be76f587e1b672923b3231c83fe4518554824023.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/40/8b/408b6e788f71b4cdadf1a824af0cb3c9d19a4523.jpg",
+		"productName": "Slim Fit Jersey Suit Pants",
+		"swatches": [
+			{
+				"articleId": "0943982001",
+				"colorName": "Gray",
+				"colorCode": "6A6B70",
+				"url": "/en_us/productpage.0943982001.html"
+			}
+		],
+		"url": "/en_us/productpage.0943982001.html",
+		"details": {
+			"description": "Crop suit pants in stretch jersey. Extended waistband tab, zip fly with concealed hook-and-eye fastener, side pockets, and welt back pockets. Legs with creases. Slim fit.",
+			"fit": {
+				"Concept:": "H\u0026M MAN",
+				"Description:": "Gray",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Ankle-length",
+				"Model size:": "The model is 189cm/6'2\" and wears a size 38R",
+				"Size:": "Inner leg: Length: 73.7 in. (Size 36R), Waist: Circumference: 93.5 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 92%, Cotton 8%",
+				"Shell:": "Rayon 66%, Polyamide 30%, Spandex 4%"
+			}
+		}
+	},
+	{
+		"id": "1239187002",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 89.99",
+				"price": 89.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/95/ac/95acbca43117b97a67116cefa734b60ff2b3445b.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/a1/71/a171056bca77995a8f52bfb0205ec0297b781217.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/9d/93/9d93243777ea81348b2503e70c2b3bdaf39102de.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/b8/c5/b8c5b40279b2ce7a0217b40f532c9b7af4411882.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/4d/ab/4dabe2a5b32c45187461eb824b7003e66c4e1c23.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/8a/19/8a19c400f67c84700cbc308a779045c282c03b5a.jpg",
+		"productName": "Slim Fit Wool-Blend Tuxedo Pants",
+		"swatches": [
+			{
+				"articleId": "1239187002",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1239187002.html"
+			}
+		],
+		"url": "/en_us/productpage.1239187002.html",
+		"details": {
+			"description": "Slim-fit tuxedo pants in soft, woven, wool-blend fabric with a fitted silhouette. Extended waistband tab with hook-and-bar fastening, zip fly with concealed button, and adjustable tab at sides of waist with a metal fastener. Diagonal side pockets, welt back pockets with button, and legs with creases and satin side stripes.",
+			"fit": {
+				"Description:": "Black, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Nice to know:": "H\u0026M Premium Selection",
+				"Size:": "Inner leg: Length: 75.0 in. (Size 36R), Waist: Circumference: 94.5 in. (Size 36R)",
+				"Style:": "Tuxedo Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Details:": "Rayon 63%, Polyester 37%",
+				"Front lining:": "Polyester 52%, Rayon 48%",
+				"Shell:": "Polyester 50%, Wool 50%"
+			}
+		}
+	},
+	{
+		"id": "0714026044",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/2a/9e/2a9e4ef2a03099088f2be285b8d11d197b09fb00.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ed/20/ed207b32e2b51c6da0f7610f2426116ea7c93bde.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/c1/36/c1365c3f850a3844a79ca8a583d844d6cee131d9.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/47/9a/479a75d8db958bcd6b935c257dc53692613f50b1.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/3a/65/3a656a28d29af79f00284303135e8065fbd25350.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/c7/ff/c7ff2ba7d6eca8119908fcd7daf9066d3a8412dd.jpg",
+		"productName": "Slim Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "0714026044",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.0714026044.html"
+			},
+			{
+				"articleId": "0714026068",
+				"colorName": "Light beige",
+				"colorCode": "EFEFDF",
+				"url": "/en_us/productpage.0714026068.html"
+			},
+			{
+				"articleId": "0714026067",
+				"colorName": "Navy blue",
+				"colorCode": "2B2C32",
+				"url": "/en_us/productpage.0714026067.html"
+			},
+			{
+				"articleId": "0714026063",
+				"colorName": "Dark blue",
+				"colorCode": "54586D",
+				"url": "/en_us/productpage.0714026063.html"
+			},
+			{
+				"articleId": "0714026074",
+				"colorName": "Dark gray melange",
+				"colorCode": "3A3A3D",
+				"url": "/en_us/productpage.0714026074.html"
+			},
+			{
+				"articleId": "0714026069",
+				"colorName": "Taupe",
+				"colorCode": "7C746B",
+				"url": "/en_us/productpage.0714026069.html"
+			},
+			{
+				"articleId": "0714026064",
+				"colorName": "Dark gray-green",
+				"colorCode": "6F746D",
+				"url": "/en_us/productpage.0714026064.html"
+			},
+			{
+				"articleId": "0714026050",
+				"colorName": "Dark blue",
+				"colorCode": "54586D",
+				"url": "/en_us/productpage.0714026050.html"
+			},
+			{
+				"articleId": "0714026062",
+				"colorName": "Dark gray melange",
+				"colorCode": "62615E",
+				"url": "/en_us/productpage.0714026062.html"
+			}
+		],
+		"url": "/en_us/productpage.0714026044.html",
+		"details": {
+			"description": "Slim-fit suit pants in woven fabric. Zip fly with concealed hook-and-eye fastener. Side pockets, welt back pockets, and legs with creases.",
+			"fit": {
+				"Concept:": "H\u0026M MAN",
+				"Description:": "Black, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 187cm/6'2\" and wears a size 34R",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 82%, Cotton 18%",
+				"Shell:": "Polyester 67%, Rayon 30%, Spandex 3%"
+			}
+		}
+	},
+	{
+		"id": "1162165009",
+		"colorName": "Dark gray/plaid",
+		"colors": "504F53",
+		"colourShades": "",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/4a/79/4a79a1a9feed019230c7c8aade7be4c30c690efe.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/de/75/de75564dc48ff6c565627cb090946c577ff78032.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/76/91/7691ca9db5a0280bb86817394c8e39c43af686cd.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/99/ec/99ecebdc5f6e807b0372bd52b80f2b9986a28edf.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/4e/49/4e49b2f013bcc683a17c29b286892269c05cbb31.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/f4/1b/f41b9f7c6a79f1f784831adf5c866e4d9b461576.jpg",
+		"productName": "Slim Fit Suit Pants",
+		"swatches": [
+			{
+				"articleId": "1162165009",
+				"colorName": "Dark gray/plaid",
+				"colorCode": "504F53",
+				"url": "/en_us/productpage.1162165009.html"
+			},
+			{
+				"articleId": "1162165010",
+				"colorName": "Brown/plaid",
+				"colorCode": "7C746B",
+				"url": "/en_us/productpage.1162165010.html"
+			}
+		],
+		"url": "/en_us/productpage.1162165009.html",
+		"details": {
+			"description": "Slim-fit suit pants in soft, woven fabric. Zip fly with concealed hook-and-eye fastening. Side pockets, welt back pockets, and creased legs.",
+			"fit": {
+				"Description:": "Dark gray, Checked",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Model size:": "The model is 189cm/6'2\" and wears a size 33R",
+				"Size:": "Waist: Circumference: 94.5 in. (Size 36R), Inner leg: Length: 78.5 in. (Size 36R)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 59%, Rayon 25%, Wool 14%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1232151001",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 49.99",
+				"price": 49.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/f5/15/f515534ec029ace94cb01b199a1a22c3ef2981f7.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/b7/1a/b71a2e93dbf714b330b289dd957b7d59a5484bf2.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/14/ba/14ba8459951e2b2dca10ca0ba9fef5f67c5cfe82.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/5b/cc/5bcccac2a308e31237a3e5d2d7db9f8aeb803a5f.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/0d/4c/0d4cac3b6dae1341101f8e21c760e47bdaa49818.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/f8/d5/f8d5f4ed835363a3ff1d325f004cca3eac0aeb91.jpg",
+		"productName": "Regular Fit Tailored Pants",
+		"swatches": [
+			{
+				"articleId": "1232151001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1232151001.html"
+			},
+			{
+				"articleId": "1232151002",
+				"colorName": "Dark brown",
+				"colorCode": "443B33",
+				"url": "/en_us/productpage.1232151002.html"
+			},
+			{
+				"articleId": "1232151003",
+				"colorName": "Dark gray",
+				"colorCode": "4F5155",
+				"url": "/en_us/productpage.1232151003.html"
+			}
+		],
+		"url": "/en_us/productpage.1232151001.html",
+		"details": {
+			"description": "Tailored, regular-fit pants in soft, woven fabric with a comfortable, classic silhouette. Zip fly with button, side pockets, and back pockets with flap and button. Legs with creases and foldover cuffs.",
+			"fit": {
+				"Collection:": "HOLIDAY 2024",
+				"Description:": "Black, Solid-color",
+				"Fit:": "Regular fit",
+				"Imported:": "Yes",
+				"Length:": "Long",
+				"Size:": "Waist: Circumference: 90.5 in. (Size 33), Inner leg: Length: 76.5 in. (Size 33)",
+				"Style:": "Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 91%, Cotton 9%",
+				"Shell:": "Polyester 63%, Rayon 24%, Wool 11%, Spandex 2%"
+			}
+		}
+	},
+	{
+		"id": "1238714001",
+		"colorName": "Black",
+		"colors": "272628",
+		"colourShades": "Charcoal",
+		"prices": [
+			{
+				"priceType": "whitePrice",
+				"formattedPrice": "$ 39.99",
+				"price": 39.99
+			}
+		],
+		"images": [
+			{
+				"url": "https://image.hm.com/assets/hm/37/49/374925f1ef268a8c5221923ef20f60004a020908.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/98/d9/98d9d87f07f1b1dcd4f7647f1de372660266b1b9.jpg"
+			},
+			{
+				"url": "https://image.hm.com/assets/hm/ab/57/ab57d39b074432d5dc9c4a049c619eceba87071b.jpg"
+			}
+		],
+		"newArrival": false,
+		"productImage": "https://image.hm.com/assets/hm/da/f9/daf94aa91e4a30311be6d1c7f762fbc5d60a2a72.jpg",
+		"productName": "Slim Fit Dressy Pants",
+		"swatches": [
+			{
+				"articleId": "1238714001",
+				"colorName": "Black",
+				"colorCode": "272628",
+				"url": "/en_us/productpage.1238714001.html"
+			},
+			{
+				"articleId": "1238714003",
+				"colorName": "Beige",
+				"colorCode": "7C746B",
+				"url": "/en_us/productpage.1238714003.html"
+			}
+		],
+		"url": "/en_us/productpage.1238714001.html",
+		"details": {
+			"description": "Slim-fit, ankle-length pants in soft woven fabric with a fitted silhouette. Zip fly with button, side pockets, and welt back pockets with button. Legs with creases and foldover cuffs.",
+			"fit": {
+				"Description:": "Black, Solid-color",
+				"Fit:": "Slim fit",
+				"Imported:": "Yes",
+				"Length:": "Ankle-length",
+				"Size:": "Waist: Circumference: 91.0 in. (Size 33)",
+				"Style:": "Slacks, Suit Pants",
+				"Waist Rise:": "Regular waist"
+			},
+			"material": {
+				"Pocket lining:": "Polyester 82%, Cotton 18%",
+				"material_0": "Polyester 63%, Rayon 33%, Spandex 4%"
+			}
+		}
+	}
+]

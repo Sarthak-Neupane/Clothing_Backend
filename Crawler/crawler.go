@@ -26,7 +26,7 @@ type APIresponse struct {
 }
 
 type plpList struct {
-	ProductList []product `json:"productList"`
+	ProductList []Product `json:"productList"`
 }
 
 type price struct {
@@ -45,7 +45,7 @@ type swatch struct {
 	ProductImage string `json:"url"`
 }
 
-type product struct {
+type Product struct {
 	Id           string   `json:"id"`
 	// ColorState   color    `json:"-"`
 	ColorName string `json:"colorName"`
@@ -122,7 +122,7 @@ func fetchAPI(apiUrl string) (APIresponse, error) {
 	return response, nil
 }
 
-func crawlProductDetails(v *product, url string, errChan chan<- error) {
+func crawlProductDetails(v *Product, url string, errChan chan<- error) {
 	c := colly.NewCollector()
 
 	c.OnRequest(func(r *colly.Request) {
@@ -168,7 +168,7 @@ func crawlProductDetails(v *product, url string, errChan chan<- error) {
 	}
 }
 
-func CrawlHnM(queryParams map[string]string) (products []product, err error) {
+func CrawlHnM(queryParams map[string]string) (products []Product, err error) {
 	baseURL := "https://api.hm.com/search-services/v1/en_US/listing/resultpage?pageSource=PLP"
 
 	apiURL, err := buildQueryURL(baseURL, queryParams)
@@ -189,7 +189,7 @@ func CrawlHnM(queryParams map[string]string) (products []product, err error) {
 
 	for i := range productsList {
 		wg.Add(1)
-		go func(v *product) {
+		go func(v *Product) {
 			defer wg.Done()
 			crawlProductDetails(v, v.LinkToSite, errChan)
 		}(&productsList[i])

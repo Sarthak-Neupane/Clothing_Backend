@@ -11,6 +11,7 @@ import (
 
 	"github.com/Sarthak-Neupane/Clothing_Backend.git/Crawler"
 	// "encoding/json"
+	"github.com/Sarthak-Neupane/Clothing_Backend.git/Util"
 )
 
 type queries struct {
@@ -43,6 +44,9 @@ func handleQuery(context *gin.Context) {
 			"message": "Invalid request",
 		})
 	}
+
+	Util.WriteToFile(response)
+
 	context.IndentedJSON(http.StatusCreated, response)
 }
 
